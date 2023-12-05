@@ -1,7 +1,9 @@
 # Parking_Lot_Detection
 
 #Install the package
+
   pip install ultralytics
+
 #Model Training:
   Download dataset https://universe.roboflow.com/brad-dwyer/pklot-1tros/dataset/4
   # train model
